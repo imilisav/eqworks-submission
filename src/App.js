@@ -8,7 +8,6 @@ import Loading from './components/Loading';
 
 // css imports
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function App() {
   // state for showing/hiding the sliding window with an overview for POI
