@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eqworks-submission/static/css/main.525f930d.chunk.css",
+    "main.js": "/eqworks-submission/static/js/main.2ac27af1.chunk.js",
+    "main.js.map": "/eqworks-submission/static/js/main.2ac27af1.chunk.js.map",
+    "runtime-main.js": "/eqworks-submission/static/js/runtime-main.247d1036.js",
+    "runtime-main.js.map": "/eqworks-submission/static/js/runtime-main.247d1036.js.map",
+    "static/css/2.150d169a.chunk.css": "/eqworks-submission/static/css/2.150d169a.chunk.css",
+    "static/js/2.6244d573.chunk.js": "/eqworks-submission/static/js/2.6244d573.chunk.js",
+    "static/js/2.6244d573.chunk.js.map": "/eqworks-submission/static/js/2.6244d573.chunk.js.map",
+    "static/js/3.73cbe91b.chunk.js": "/eqworks-submission/static/js/3.73cbe91b.chunk.js",
+    "static/js/3.73cbe91b.chunk.js.map": "/eqworks-submission/static/js/3.73cbe91b.chunk.js.map",
+    "index.html": "/eqworks-submission/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/eqworks-submission/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.525f930d.chunk.css.map": "/eqworks-submission/static/css/main.525f930d.chunk.css.map",
+    "static/js/2.6244d573.chunk.js.LICENSE.txt": "/eqworks-submission/static/js/2.6244d573.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.247d1036.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.6244d573.chunk.js",
+    "static/css/main.525f930d.chunk.css",
+    "static/js/main.2ac27af1.chunk.js"
+  ]
+}
